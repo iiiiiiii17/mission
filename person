@@ -1,0 +1,5 @@
+age = 18
+print('型態:', type(age))
+
+name='ming'
+print('型態:', type(name))
